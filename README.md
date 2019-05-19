@@ -10,5 +10,3 @@ Quelques screens :
 ![vue1](screens/vue1.PNG)
 
 ![vue2](screens/vue2.PNG)
-
-![cv](screens/cv.PNG)
